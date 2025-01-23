@@ -22,5 +22,7 @@ I am no genius; I drew from several different sources to make this work:
 - (What I can gather from the Medium article is to experiment with filling all cells in a merged range with the one from the first cell.)
 - **Reddit question:** https://www.reddit.com/r/googlesheets/comments/1ajm4d6/comment/kp24i3c/?context=3&share_id=ysd490v1eE4_W8RQmncF5&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1
 
-**isHexColor function:** https://www.geeksforgeeks.org/javascript-check-if-a-string-is-a-valid-hex-color-representation/ 
+- **isHexColor function:** https://www.geeksforgeeks.org/javascript-check-if-a-string-is-a-valid-hex-color-representation/
+-  **Mobile onEdit Button:** https://youtu.be/SERvgSdWugc?si=XPYuUZHO4omxsBvx
+
 
