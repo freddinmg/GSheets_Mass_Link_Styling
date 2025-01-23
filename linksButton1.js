@@ -1,4 +1,4 @@
-//STAY TUNED for onChange function that preempts this code! I uploaded out of order :X
+//onChange MUST be declared before both button scripts.
 
 //Play with link colors without going into the code to do so. This script is attached to a button.
 function stylePageLinks2(arg1 = "Sheet1", arg2 = "A1:A7", arg3 = "D3") {
