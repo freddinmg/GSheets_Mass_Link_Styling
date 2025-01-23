@@ -1,7 +1,7 @@
 //onChange MUST be declared before both button scripts.
 //consult the previous button script for commentary, it's identical to it as of 23/01/25. It's going to be revised if I can find out what occasions makes the merged ranges give a "mismatched size of arrays" error. Watch this space!
 
-//Play with link colors without going into the code to do so.
+//Play with link colors without going into the code to do so. This script is attached to a button.
 function stylePageLinks3(arg1 = "Merged_Cells", arg2 = "A2:A7", arg3 = "J3") {
   var targetSheetName = arg1;
   var targetSheet = SS.getSheetByName(targetSheetName);
