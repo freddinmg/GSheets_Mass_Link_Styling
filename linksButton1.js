@@ -63,6 +63,7 @@ let linksBool = urlArr1.map(linkBool);
 //Logger.log(linksBool);
 //console.log("urlArr2: [ " + urlArr2+" ]");
 
+//IMPORTANT TO REMEMBER: When you're styling links with the RTF builder, be sure to set the link URL FIRST. I can't remember what happens atm since I discovered this a long time ago, but it WILL screw something up.
 for (let i = 0; i < linksBool.length; i++) {
 {if(linksBool[i] === true){
   richTextValue2.setLinkUrl(startIndexArr[i], endIndexArr[i], urlArr1[i]);
