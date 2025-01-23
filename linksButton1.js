@@ -79,6 +79,6 @@ return richTextValue2.build();
   return rowValues.map(value => getLinks2(value,targetColor))
   });
 
-
+//You don't do the usual "richTextValue.build()" in this because the newValues array returns the richTextValue, already built.
 sheetRange.setRichTextValues(newValues);
 }
